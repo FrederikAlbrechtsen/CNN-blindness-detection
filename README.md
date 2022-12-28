@@ -5,4 +5,5 @@ A CNN classification model that achieves 75% accuracy on APTOS 2019 Blindness De
 2. Moderate
 3. Severe
 4. Proliferative DR
+
 Images are decreased to 50x50 in size, since using the large high-resolution images would have slowed down the training significant.
