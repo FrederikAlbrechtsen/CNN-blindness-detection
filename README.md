@@ -1,5 +1,5 @@
 # Blindness detection with Artificial Intelligence
-A CNN classification model that achieves 75% accuracy on APTOS 2019 Blindness Detection. The data used are from https://www.kaggle.com/c/aptos2019-blindness-detection. It contains large images in high resolution. Clinicians rated the presence of diabetic retinopathy in each image between 0 and 4, according to the following scale:
+A CNN classification model that achieves 74% accuracy on APTOS 2019 Blindness Detection. The data used are from https://www.kaggle.com/c/aptos2019-blindness-detection. It contains large images in high resolution. Clinicians rated the presence of diabetic retinopathy in each image between 0 and 4, according to the following scale:
 
 0. No DR
 1. Mild
